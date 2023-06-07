@@ -1,10 +1,9 @@
-p {
-
-    color: #390c61;
- 
- }
- body {
-
-    font-family: 'Oswald' , sans-serif;
-  
-  }
+.color {
+   color: red;
+}
+.color {
+   color:purple
+}
+.font {
+   font-size: xx-large;
+}
