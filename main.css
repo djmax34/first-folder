@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
+
+body {
+    background: linear-gradient(135deg, yellow 10%, blue 50%, purple 100%);
+    color: white;
+    height: 100vh;
+    font-family: 'Tilt Prism', cursive;
+}
+
+.sentence {
+    height: 200px;
+    width: 300px;
+    background-color: white;
+    border: 3px black dashed;
+}
+
+.rule {
+    height: 200px;
+    width: 250px;
+    background-color: blue;
+    border: 10px orange solid;
+}
